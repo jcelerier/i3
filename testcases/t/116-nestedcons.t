@@ -62,6 +62,7 @@ my $expected = {
     swallows => $ignore,
     percent => undef,
     layout => 'splith',
+    stack_title_position => 'top',
     floating => 'auto_off',
     last_split_layout => 'splith',
     scratchpad_state => 'none',
